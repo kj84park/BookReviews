@@ -42,3 +42,4 @@ Books review I have read are here.
 
 ## May
 + [팩트풀니스](https://github.com/kj84park/Book-Reviews/blob/master/2019/5.May/1.%20%ED%8C%A9%ED%8A%B8%ED%92%80%EB%8B%88%EC%8A%A4.md)
++ [철학은 어떻게 삶의 무기가 되는가](https://github.com/kj84park/BookReviews/blob/master/2019/5.May/2.%20%EC%B2%A0%ED%95%99%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%82%B6%EC%9D%98%20%EB%AC%B4%EA%B8%B0%EA%B0%80%20%EB%90%98%EB%8A%94%EA%B0%80.md)
