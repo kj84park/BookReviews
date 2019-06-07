@@ -2,6 +2,8 @@
 
 ## 읽은기간 : 19. 03. 15 ~ 19. 03. 22
 
+![Smithsonian Image]({{ site.url }}/images/books-images/readingExpert05.jpg)
+
 ### 출퇴근용
 
 ### 고3 이상용 (고3 이상이 뭐인지는 잘모르겠다.) 책.

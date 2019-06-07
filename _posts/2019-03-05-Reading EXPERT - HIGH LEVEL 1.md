@@ -2,6 +2,8 @@
 
 ## 읽은기간 : 19. 02. 21 ~ 19. 03. 05
 
+![Smithsonian Image]({{ site.url }}/images/books-images/readingExpertHigh01.jpg)
+
 ### 출퇴근용
 
 ### 전에 읽던 리딩 튜터 수능 PLUS 보다 난이도가 급상승했다.

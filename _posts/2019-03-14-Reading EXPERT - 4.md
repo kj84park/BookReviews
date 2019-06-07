@@ -2,6 +2,8 @@
 
 ## 읽은기간 : 19. 03. 11 ~ 19. 03. 14
 
+![Smithsonian Image]({{ site.url }}/images/books-images/readingExpert04.jpg)
+
 ### 출퇴근용
 
 ### 영어 좀 잘하는 고3 대상용 책.

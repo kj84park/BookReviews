@@ -2,6 +2,8 @@
 
 ## 읽은기간 : 19. 03. 06 ~ 19. 03. 09
 
+![Smithsonian Image]({{ site.url }}/images/books-images/readingExpert02.jpg)
+
 ### 출퇴근용
 
 ### 영어 좀 잘하는 고1 대상용 책이다. 직전에 읽었던 HIGH LEVEL -1 보다 훨씬 내용이 쉽다.
